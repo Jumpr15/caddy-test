@@ -1,0 +1,3 @@
+module caddy-test
+
+go 1.25.7
