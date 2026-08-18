@@ -15,10 +15,12 @@
 								},
 								"upstreams": [
 									{
-										"dial": "127.0.0.1:80"
+										"dial": "127.0.0.1:80",
+										"@id": "upstream-worker-1"
 									},
 									{
 										"dial": "127.0.0.1:90"
+										"@id": "upstream-worker-2"
 									}
 								]
 							}]
