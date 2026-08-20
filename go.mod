@@ -4,10 +4,12 @@ go 1.25.7
 
 require (
 	github.com/beorn7/perks v1.0.1 // indirect
+	github.com/caddyserver/caddy v1.0.5 // indirect
 	github.com/caddyserver/caddy/v2 v2.11.4 // indirect
 	github.com/caddyserver/certmagic v0.25.3 // indirect
 	github.com/caddyserver/zerossl v0.1.5 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
+	github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/klauspost/cpuid/v2 v2.3.0 // indirect
 	github.com/libdns/libdns v1.1.1 // indirect

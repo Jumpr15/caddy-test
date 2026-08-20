@@ -7,6 +7,7 @@
 					"routes": [
 						{
 							"handle": [{
+								"@id": "upstream-handler",
 								"handler": "reverse_proxy",
 								"load_balancing": {
 									"selection_policy": { 
